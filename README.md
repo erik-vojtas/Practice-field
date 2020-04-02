@@ -1,5 +1,5 @@
 # practice
-Practice field
+Practice field (short and small tasks to improve my Python programming skills and have fun!:)
 
 #PasswordChecker.py
 Write a program to check the validity of password input by users.
