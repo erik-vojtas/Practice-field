@@ -10,3 +10,7 @@ At least 1 letter between [A-Z]
 At least 1 character from [$#@]
 Minimum length of transaction password: 6
 Maximum length of transaction password: 12
+
+
+#BinarySearch.py
+returns where a searched item is found and how many steps it takes
