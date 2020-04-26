@@ -15,5 +15,9 @@ Maximum length of transaction password: 12
 #BinarySearch.py
 returns where a searched item is found and how many steps it takes
 
-#BubbleSort.py
+#BubbleSortAlgorithm.py
 Bubble sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+#SelectionSortAlgorithm.py
+
+#InsertionSortAlgorithm.py
