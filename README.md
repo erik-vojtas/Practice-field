@@ -1,4 +1,4 @@
-# practice
+# Practice
 Practice field (short and small tasks to improve my Python programming skills and have fun!:)
 
 #PasswordChecker.py
